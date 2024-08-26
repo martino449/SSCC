@@ -1,2 +1,2 @@
 # SSCC
-Simple server-client communication
+Simple local server-client communication
